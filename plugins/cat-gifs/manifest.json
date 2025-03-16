@@ -1,0 +1,14 @@
+{
+    "name": "grab cat",
+    "description": "Instantly obtain cat gifs!",
+    "authors": [
+        {
+            "name": "Regedit-SYS",
+            "id": "system32-registry"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
